@@ -1,25 +1,15 @@
-<br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
-
-<br>
-
-🔮 `The main hope of creating this bot is to take full advantage of the WhatsApp and make its work easier.`
-
-<br>
- 
-  <p align="center">  
-  <a href="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
-    
   
+<div align="center">
+</p>
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+QASIM+JIHO+WHATSAPP+BOT)](https://git.io/typing-svg)
+
+   <p align="center">
+<a href="https://github.com/Qasim">
+    <img src="https://i.imgur.com/7WApLO7.jpeg" width="700px">
   </a>
-</p>  
-
-
-<br>
-<br>
-
 💡 This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 
 <br>
