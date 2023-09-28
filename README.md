@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
+  <a href="https://telegra.ph/file/7e6138ea44604ef047ef3.jpg")>
     <img alt="prabath-md" height="300" src="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
     
   
