@@ -5,7 +5,7 @@
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/PRABATH-MD_Baileys.git",
+"@whiskeysockets/baileys": "git+https://github.com/sampandey001/baileys",
 "@adiwajshing/keyed-db": "^0.2.4",
 "jspdf": "^2.5.1",
 "pino": "^7.0.5",
