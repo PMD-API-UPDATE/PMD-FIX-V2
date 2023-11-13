@@ -1,6 +1,6 @@
-<br>
+p<br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## ATHEX - MD 👨‍💻 🔥 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
+  <a href="https://telegra.ph/file/55688f2b438cc33e5a14a.jpg">
+    <img alt="athex-md" height="300" src="https://telegra.ph/file/faf8307149cf9033457a8.jpg">
     
   
   </a>
