@@ -4,13 +4,13 @@
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name PRABATH-MD
-* @authors Prabath Kumara & sachibot-team <https://github.com/prabathLK>
+* @project_name LAKSHAN-MD
+* @authors LAKSHAN-MDbot-team <https://github.com/Lakshan2002924>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
+* @link <https://github.com/Lakshan2002924/LAKSHAN-MD>
 * @version 2.0.0
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2023 LAKSHAN-MD . All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
