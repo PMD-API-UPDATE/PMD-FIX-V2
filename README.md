@@ -49,15 +49,16 @@
 
  **`DEPLOYMENT METHODS`**
 ---
-**[SCAN QR-CODE-SERVER-1](https://qr-web-prabath-md-update.vercel.app/)**
+**[SCAN QR-CODE](https://m-qrscan-prabath-md.onrender.com/)**
 
 
 
 **[SCAN QR CODE-SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)**
 
-  
 
-**[SCAN QR-CODE-SERVER-3](https://qr-meganzprabath-md-production.up.railway.app/)**
+
+ **[🔴 If qr scan not working ? Click here](https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x/106)**
+
 
 
 <br>
