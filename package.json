@@ -5,7 +5,7 @@
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/PRABATH-MD-BAILEYS",
+"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "heroku-client": "^3.1.0",
