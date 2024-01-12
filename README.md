@@ -32,34 +32,29 @@
 
 ![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
 
+
+
+
 <br>
 <br>
 
+[![🎉 Join Our WhatsApp Channel](https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black)](https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x)
 
- **[`Visit this site to easily deploy bots and get deployment videos`](https://prabath--md-official.vercel.app/)**
 
 
-**[PRABATH-MD OFFICIAL](https://prabath--md-official.vercel.app/)**
-<br>
-<br>
-
-**[🚀 Join Our WhatsApp Channel](https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x)**
 <br>
 <br>
 
  **`DEPLOYMENT METHODS`**
 ---
-**[SCAN QR-CODE](https://m-qrscan-prabath-md.onrender.com/)**
+<br>
+<br>
 
+[![LOGIN WITH PAIR CODE](https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue)](https://replit.com/@Amilaprabath/PRABATH-MD-PAIR-CODE#README.md)
 
+[![LOGIN WITH QR CODE](https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black)](https://q-r-c6a6a014f5d2.herokuapp.com/)
 
-**[SCAN QR CODE-SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)**
-
-
-
- **[🔴 If qr scan not working ? Click here](https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x/106)**
-
-
+<br>
 
 <br>
 
@@ -73,8 +68,8 @@
 
 <br>
 
-  
-<a href="https://github.com/prabathLK/PRABATH-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork prabath-md" height="65" width="170" /></a>
+
+[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
 
  ---
 
@@ -232,7 +227,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 - **Antibot:** Antibot | ✔️
 - **Autoreact:** Autoreact | ✔️
 
-Feel free to explore and use these commands!
+✨ Feel free to explore and use these commands!
 
 
 
@@ -267,4 +262,4 @@ Feel free to explore and use these commands!
 
 `Release date:- 2023.08.24`
 <br>
-`latest updated date:- 2024.01.01`
+`latest updated date:- 2024.01.12`
