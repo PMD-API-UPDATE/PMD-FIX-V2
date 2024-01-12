@@ -38,8 +38,7 @@
 <br>
 <br>
 
-[![🎉 Join Our WhatsApp Channel](https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black)](https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x)
-
+<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="🎉 Join Our WhatsApp Channel" width="300"></a>
 
 
 <br>
@@ -50,9 +49,10 @@
 <br>
 <br>
 
-[![LOGIN WITH PAIR CODE](https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue)](https://replit.com/@Amilaprabath/PRABATH-MD-PAIR-CODE#README.md)
+<a href="https://replit.com/@Amilaprabath/PRABATH-MD-PAIR-CODE#README.md"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-[![LOGIN WITH QR CODE](https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black)](https://q-r-c6a6a014f5d2.herokuapp.com/)
+
+<a href="https://q-r-c6a6a014f5d2.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 
 <br>
 
