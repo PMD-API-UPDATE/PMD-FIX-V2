@@ -1,32 +1,32 @@
 {
-  "name": "PRABATH-MD (2.0.5)",
+  "name": "Gulsher-bot",
   "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "logo": "https://telegra.ph/file/eaa1a3abbbd342de02f39.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "923043942429",
       "required": true
     },  
 
   "SESSION_ID": {
       "description": "If you like, scan the qr and put the session id here or you can open your app and scan the qr.",
-      "required": false
+      "required": eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUxrc0lCelJrTmJnb253NHNNMDd1ZDA4R2NCMWZVd09obVhiQUs5NlhGMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWkFtd09DRzVFVTFLTlBMcWJZTlBsTkMxVDhJdVM4dkRCTzFiQzEwNGhScz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrRHNIYWY0ZldlRXFsbWtNMmxQckluZEdCMFp6VUh1c1hvSXZSNHY1aEhNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJaTGhkTERzT1Y3aHJKSTZ3M2dOMmZvbytxTCtWTkpCbUp4RVpYaisrVkJjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFKNHAxZE1uZTQ5NVpKek52cURoalZoMmorMGxTMjJNa2lZZCtxbFpHMm89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikt5bEtHbHFLQXVmaHk0VXM1MkNsRU1KaW5Hc003ZzFHc1k4RnZnQ0F4SDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0JaekVITU9IUjh4d0MxU1JVN1B3Qzdvb1IyN1BqQlNsNmpyc2tlTS9sVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNHR2WFVsdkJhWVdUU082KzZUZy9yWXdxU1RSNUQ0Q0dDakJMMU9MdVNDdz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImNxR3ZYd0ZnbTJTNk1qMUNQNHpmVkNZNnNFUzY5SDFJenNmb3grcnlxbGZkdHJncTVpWnViMmFBa25LcG9EUHFhV285Y3FkdUl0YTROcGpmcUl3V0JRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjEzLCJhZHZTZWNyZXRLZXkiOiJ6b0JTQUpqMTdnaHRsdkZ5WENXYWo2aHBCS0JQYXFnUWs2UFB2N0Q2YkFJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjkyMzA0Mzk0MjQyOUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI4MTRFNDJGNzMxMEUxMjdDOTJCMzgwMjJGNjlDMUNBQyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzA1NDE0NzIyfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJxZllKR200elJwbURISF9hcjh5c2FnIiwicGhvbmVJZCI6IjM2NTYyNTMzLWQyMzYtNGY4Yy1iYjlkLTMyNzQ5MWE5Njg5ZiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0UXNvVTZvNHRUMXB6bWpvRVZETW9tWjdnLzQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibnU1Q1J6dnpxbCt1YWRyUFg0S29nS1dIdUY4PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjhIU1kxTThBIiwibWUiOnsiaWQiOiI5MjMwNDM5NDI0Mjk6MjRAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoidW5rbm93biJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTVNiaHJvQ0VMaWdtcTBHR0FnZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiS0tVN2x4OUlmTWtwL1NmLzZYd1Fmb1pDNjhuUFJycWJDTmtHQXJnTzV4MD0iLCJhY2NvdW50U2lnbmF0dXJlIjoiVCt4Z3NPWCtwQ2ZhYS9aVlZEMGJMdlNRM1ZCSGxaQW8zcmI3cDBvTlpPVklNSG0raG9kOW9tanNrYkU2a2N0aUhzTEwwS3lTZXRlSFprdXVmelc3QXc9PSIsImRldmljZVNpZ25hdHVyZSI6Ik9yOUxLS0R6WFp3RGtUYWxaTENuTTRuNDJucHNqVVdQakIySU1GMTBMNktyWjZVQU5tSlYvSWt1N0NOM0lac3FlNG5mT2dsSVdjUG9yTEhJY1BxK0JRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTIzMDQzOTQyNDI5OjI0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlNpbE81Y2ZTSHpKS2Ywbi8rbDhFSDZHUXV2SnowYTZtd2paQmdLNER1Y2QifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MDU0MTQ3MTYsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSEdvIn0=
     },
     
     "PASSWORD": {
-      "description": "Enter a password of your choice here, you will need this when going to scan the qr",
+      "description": "Ali786()?" ,
       "required": true
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "alishahid20",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
