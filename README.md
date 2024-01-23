@@ -1,16 +1,16 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## SK HINDU-MD 🚩👨‍💻 🕉️ - A Javascript WhatsApp User Bot
 
 <br>
 
-🔮 `The main hope of creating this bot is to take full advantage of the WhatsApp and make its work easier.`
+⚔️ `The main hope of creating this bot is to take full advantage of the WhatsApp and make its work easier.`
 
 <br>
  
   <p align="center">  
   <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="SK,DHARMIK-LADHKA-md" https://i.imgur.com/1p2zTBB.jpg height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
   </a>
@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<a href="https://replit.com/@Amilaprabath/PRABATH-MD-PAIR-CODE#README.md"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://replit.com/@Amilaprabath/SK HINDU-MD-PAIR-CODE#README.md"><img src="https://img.https://i.imgur.com/1p2zTBB.jpg shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://prabath-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
@@ -64,12 +64,12 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/SANATAN DHARM-MD.git)
 
 <br>
 
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
+[![FORK SANATANI SK-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
 
  ---
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -90,7 +90,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 | gdrive | download google drive files | ✔️ |googledrive |
 | mediafire | download mediafire files | ✔️ | mfire,mf |
 | ss | take screen shot given website url | ✔️ | screenshot |
-| video | download youtube videos | ✔️ | වීඩියෝ,mp4 |
+| video | download youtube videos | ✔️ | Hindi,mp4 |
 | song | download youtube songs | ✔️ | audio,mp3,music |
 | spotify | download spotify audio files | ✔️ | sp,spfy,spoti |
 | img | search images from google and download | ✔️ | image |
@@ -233,7 +233,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`SK DHARMIK LADHKA -MD BOT OWNERS,`** 🕉️🚩👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
