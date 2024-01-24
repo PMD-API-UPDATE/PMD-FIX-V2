@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## 𓄂✘𝐑o͜͡M̸i͜͡🥀🅱Ѻ𝐓🇵🇰𓅂 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://telegra.ph/file/aad348ec82e64f86bd711.jpg">
+    <img alt="prabath-md" height="300" src="https://telegra.ph/file/aad348ec82e64f86bd711.jpg">
     
   
   </a>
@@ -75,7 +75,7 @@
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-# PRABATH-MD Bot Commands
+# 𓄂✘𝐑o͜͡M̸i͜͡🥀🅱Ѻ𝐓🇵🇰𓅂 Bot Commands
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 
@@ -233,7 +233,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **𓄂✘𝐑o͜͡M̸i͜͡🥀🅱Ѻ𝐓🇵🇰𓅂 BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
@@ -242,7 +242,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/157145316?s=400&u=5c85053f3e8d40b3ce177699e0d1a76726e8e3fd&v=4" width=80 height=80></a> 
 
 |**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
 
