@@ -7,22 +7,22 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+923481556753.",
       "required": true
     },  
 
   "SESSION_ID": {
-      "description": "If you like, scan the qr and put the session id here or you can open your app and scan the qr.",
+      "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0J4QzFPVng5WDVzeHRPTFkvTGRoR3FrTkpvK1c2Z2JXQWFMa09FMDNXTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT25rQmpRT2FEekw4REp3Ylh4cUZSUEpWWHBVSmJTczRVNEtGbENHZHVuND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPQit3ZjlRTzh0SkFaTE1ZY0x2N20xclVZSmpBTERLa1RxRStpTGN5REdZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrdGxUWTRNUDVjL0kvNTZxQVlaeGNQWlQwMERsVDhmc0xHZ05GTG1YMERVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNKZGozbk1ZL09PbmNEbDlCMHBnd1gxdnNLeUVpVVlRdmRtR2JoTWdOV1U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ink3M1JVdStHc1I3L0FQVmN2UjVtODg0UmR3VVg3TXZHN0RqQllZVnlhbDQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFp….",
       "required": false
     },
     
     "PASSWORD": {
-      "description": "Enter a password of your choice here, you will need this when going to scan the qr",
+      "description": "abdurrehman.1",
       "required": true
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Abdurrehmantalat.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
