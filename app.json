@@ -1,18 +1,18 @@
 {
-  "name": "PRABATH-MD (2.0.5)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "VEHNOM (2.0.5)",
+  "description": "VEHNOM has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "08142135684",
       "required": true
     },  
 
   "SESSION_ID": {
-      "description": "If you like, scan the qr and put the session id here or you can open your app and scan the qr.",
+      "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNE1CaGdCS0owcUVyR3pOVjFNZzg4dUMrcFdxZm1GZzRaNjNjd3VmdTBFYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSytlMG5GS3AvZ3dUaktmdy9EaXJyWklJazc0NzdSYlhpRmZ3SmlsYXpncz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrQ2dteGE4MVpKbFdEQ00xREw4Y1FWQ0hrcHZwMzN1R3NUaTZYQU5VQ213PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFenM5dTVRU3E5TWlHdDFIL2h3MGEvMzMwZXA3aGNaa3pLcUMvOEVxT1RjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhOMCtob0E1VURzVEo0WENWK0FYTlNYa3IvQVRkcHJGZVA3UFRhTmV5R0U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ijlhd0hOU2lsT3hmbTZaMm5HbzZhbW1talJoamxSa3g1ZXpkaHl0Zk4yVG89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUtOZmt6ejh5Y3BoZFcvTUk1ZndMWmMxQUtxdHBYZXlNcDBRdzE5Si9HND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiajFtN1kxTVBnNGo1UGRkWHc0bFU4OUMxa3N4dlFPdVM5dmI1MlNWU3FSaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNwZ1NOMHI1SjIwa05xODFTZm5rT3BOTlRZQzg2ZEZQbldFRUhOeUZRYWJ4K0RVbW41Q0djSG1VbTNNMWxBeU13VllOY0J2bnpvQW8vbmRLMlplMERRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQ5LCJhZHZTZWNyZXRLZXkiOiJoMEp2WkdubklhNXBNczlQaUxJaGxGbThRd2JiY1M5YXNuSzJMM2dTblNFPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MTQ3LCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MTQ3LCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IjJKbnRMUEJ5UzY2OUVhM29SVzJnVmciLCJwaG9uZUlkIjoiZTJmZTg3ZjAtZWQ0NC00ZTMyLTkxZTktY2E1ODg2MjUyOWMxIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktQcG9qYWJMUVJ1eVM3RGdIeUhmRHBJNTRrZz0ifSwicmVnaXN0ZXJlZCI6ZmFsc2UsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWmpCbVZQbWlRMWIrUjFnOHFrcWpMeFEwUkVFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTmp6bStBT0VOK3RvcTRHR0FJZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiSHR0OUtHRFU2dStpeTl2Sk1nRnZWOGVHOHVITFI5V0Y4UmliMG5YTFVndz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiTVg2VVpDQ3lFZ3FlckJkL0VteTNuVFgxU0c0OGJJcDBweHh2cVBxSWl6c0d5RGo2bHEzK1RYNUlkWjBCeVVvazlaREhCSUtLcmlrMTVYdTJBb3lzaVE9PSIsImRldmljZVNpZ25hdHVyZSI6ImRLdlhHeThDUFNpV3NxS1JESWxlTkJISStyL0x1Ny9pTjRWa0FUOHIvdnlIVklzRlFJak81d0R4N2YyVk1nUUp5cXdGQXNOVWxHdjJRYmk3NjkzdkRnPT0ifSwibWUiOnsiaWQiOiIyMzQ4MTQyMTM1Njg0OjEyQHMud2hhdHNhcHAubmV0IiwibGlkIjoiMjM1OTMxMzExMzE3MDA1OjEyQGxpZCIsIm5hbWUiOiJWZWhub20ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0ODE0MjEzNTY4NDoxMkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJSN2JmU2hnMU9ydm9zdmJ5VElCYjFmSGh2TGh5MGZWaGZFWW05SjF5MUlNIn19XSwicGxhdGZvcm0iOiJpcGhvbmUiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MDc2NDQ3MjUsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTkRUIn0=",
       "required": false
     },
     
@@ -22,7 +22,7 @@
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "VEHNOM999.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
