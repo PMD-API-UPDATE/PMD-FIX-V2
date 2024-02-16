@@ -55,6 +55,8 @@
 <a href="https://prabath-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
+**[Pair-code and Qr code not working?  Click here](https://qr-pair-error-prabath-md.vercel.app/)**
+
 <br>
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
