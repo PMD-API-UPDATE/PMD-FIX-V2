@@ -55,7 +55,7 @@
 <a href="https://prabath-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
-**[Pair-code and Qr code not working?  Click here](https://qr-pair-error-prabath-md.vercel.app/)**
+**[`Pair-code and Qr code not working?  Click here`](https://qr-pair-error-prabath-md.vercel.app/)**
 
 <br>
 
