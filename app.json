@@ -15,6 +15,11 @@
       "description": "Enter a password of your choice here",
       "required": true
     },
+
+    "SESSION_ID": {
+      "description": "Enter session-id here",
+      "required": false
+    },
     
     "GITHUB_USERNAME": {
       "description": "Put your github username here.",
