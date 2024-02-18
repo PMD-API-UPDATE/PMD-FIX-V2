@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<a href="https://pair-code-e0087a4f1929.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://prabath-md-pair.up.railway.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://prabath-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
