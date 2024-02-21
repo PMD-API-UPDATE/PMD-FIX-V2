@@ -76,7 +76,7 @@
 "@sl-code-lords/si-subdl":"1.1.1",
 "@xct007/frieren-scraper":"github:xct007/frieren-scraper",
 "ytdl-secktor":"latest",
-"@sl-code-lords/movie-dl":"1.0.8",
+"@sl-code-lords/movie-dl":"^1.1.0",
 "fb-info-video":"1.0.2",
 "bard-ai":"2.0.3",
 "scr-emoji":"0.0.3",
