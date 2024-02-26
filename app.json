@@ -6,32 +6,32 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {
+    "BOT_NUMBER": {+94717015282}
       "description": "Put the number here.",
       "required": true
     },  
 
-    "PASSWORD": {
+    "PASSWORD": {ashila@2024}
       "description": "Enter a password of your choice here",
       "required": true
     },
 
-    "SESSION_ID": {
+    "SESSION_ID": PRABATH-MD_kR5EXFtG
       "description": "Enter session-id here",
       "required": false
     },
     
-    "GITHUB_USERNAME": {
+    "GITHUB_USERNAME": tredingme5
       "description": "Put your github username here.",
       "required": true
     },
-    "GITHUB_AUTH_TOKEN": {
+    "GITHUB_AUTH_TOKEN": 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
       "description": "Put your github auth-token here.",
       "required": true
     }   
 },
 
-     "buildpacks": [
+     "buildpacks": https://github.com/prabathLK/PRABATH-MD
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
