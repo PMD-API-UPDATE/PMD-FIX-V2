@@ -15,6 +15,7 @@
 "heroku-client": "^3.1.0",
 "simple-git":"3.22.0",
 "crypto-digest-sync": "^1.0.0",
+"puppeteer": "^21.5.0",
 "jspdf": "^2.5.1",
 "mathjs": "^12.0.0",
 "fraction.js": "^4.3.7",
@@ -75,7 +76,7 @@
 "@sl-code-lords/si-subdl":"1.1.1",
 "@xct007/frieren-scraper":"github:xct007/frieren-scraper",
 "ytdl-secktor":"latest",
-"@sl-code-lords/movie-dl":"^1.1.0",
+"@sl-code-lords/movie-dl":"1.1.0",
 "fb-info-video":"1.0.2",
 "bard-ai":"2.0.3",
 "scr-emoji":"0.0.3",
@@ -94,6 +95,8 @@
 "@vitalets/google-translate-api":"9.2.0",
 "pastebin-js": "latest",
 "is-standard-emoji":"1.0.0",
-"@tobyg74/tiktok-api-dl":"1.0.13"
+"@tobyg74/tiktok-api-dl":"1.0.13",
+"sinhala-cricket-newsjs":"1.0.0",
+"gms-mobile-news":"1.0.0"
 }
 }
