@@ -11,7 +11,7 @@
 * @link <https://github.com/prabathLK/PRABATH-MD>
 * @version 2.0.6
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2024 Allan George, SACHI-BOT. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
