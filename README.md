@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://i.imgur.com/kp4cgZv.jpeg.jpg">
+    <img alt="prabath-md" height="300" src="https://i.imgur.com/kp4cgZv.jpeg.jpg">
     
   
   </a>
