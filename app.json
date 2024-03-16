@@ -7,26 +7,26 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+94716769285.",
       "required": true
     },  
 
     "PASSWORD": {
-      "description": "Enter a password of your choice here",
+      "description": "14793",
       "required": true
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
+      "description": "postgres://nadeen_user:7LdcnxSYDM3LHRrtWa4DrtjO67nkHXPN@dpg-cn31b07109ks73em4mp0-a/nadeen",
       "required": false
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Nadeen Poorna.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "Dinka Films.",
       "required": true
     }   
 },
