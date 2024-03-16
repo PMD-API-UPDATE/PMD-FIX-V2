@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## ATHEX-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
