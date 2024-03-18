@@ -20,9 +20,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Enter your session-id",
-BOT_NUMBER: process.env.BOT_NUMBER || "Enter your botnumber (without + mark and spaces)",
-PASSWORD: process.env.PASSWORD || "Enter you like password",
+SESSION_ID: process.env.SESSION_ID || "postgres://nadeen_user:7LdcnxSYDM3LHRrtWa4DrtjO67nkHXPN@dpg-cn31b07109ks73em4mp0-a.frankfurt-postgres.render.com/nadeen",
+BOT_NUMBER: process.env.BOT_NUMBER || "94716769285",
+PASSWORD: process.env.PASSWORD || "Nadeen@123",
 GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Enter your github username",
 GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "Enter your GITHUB_AUTH_TOKEN"
 };
