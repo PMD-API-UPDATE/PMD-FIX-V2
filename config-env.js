@@ -20,9 +20,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Enter your session-id",
-BOT_NUMBER: process.env.BOT_NUMBER || "Enter your botnumber (without + mark and spaces)",
-PASSWORD: process.env.PASSWORD || "Enter you like password",
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Enter your github username",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "Enter your GITHUB_AUTH_TOKEN"
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD-QR~8n031JCR#6npuoeXYe_dHSN6ygCemb-1-rAzygGusj6700qjGtVw",
+BOT_NUMBER: process.env.BOT_NUMBER || "254710745425",
+PASSWORD: process.env.PASSWORD || "password",
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || "tonnie44",
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
 };
