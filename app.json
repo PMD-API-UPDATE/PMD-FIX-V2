@@ -1,7 +1,7 @@
 {
-  "name": "PRABATH-MD (2.0.6)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "DENUWA-MD (2.0.6)",
+  "description": "DENUWA-MD WHATSAPP BOT IS ONLINE NOW... JOIN MY OFFICIAL WHATSAPP GROUP - https://chat.whatsapp.com/KgJvR8CpXpx1czt5qc16fQ 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/83d4560a5f82d5b6f47fe.jpg",
   "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
@@ -17,16 +17,16 @@
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
+      "description": "PRABATH-MD~oy1jxZrI#lb7OuoN4FNkLAyvrVqZhwF1re2V5KWOEazl-EEq5EJ0",
       "required": false
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "isuruthejan",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
