@@ -41,7 +41,7 @@
 "ffmpeg": "^0.0.4",
 "fluent-ffmpeg": "^2.1.2",
 "crypto-js":"latest",
-"youtubedl-core": "github:SACHIBOT/sachibot-youtubedl#main",
+"youtubedl-core": "4.11.7",
 "node-fetch": "^2.6.1" ,
 "megajs": "^1.1.0",
 "file-type": "^16.5.3",
