@@ -9,7 +9,7 @@
 "restart": "pm2 restart acc-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "latest", 
+"@whiskeysockets/baileys": "6.6.0", 
 "@sampandey001/baileys": "latest", 
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
