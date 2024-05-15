@@ -1,16 +1,16 @@
 {
-"name": "PRABATH-MD",
+"name": "acc-MD",
 "version": "2.0.6",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "acc-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
-"stop": "pm2 stop prabath-md",
-"restart": "pm2 restart prabath-md"
+"start": "pm2 start start.js --deep-monitoring --attach --name acc-md",
+"stop": "pm2 stop acc-md",
+"restart": "pm2 restart acc-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git#master", 
-"@sampandey001/baileys": "git+https://github.com/prabathLK/PRABATH-MD-baileys.git", 
+"@whiskeysockets/baileys": "latest", 
+"@sampandey001/baileys": "latest", 
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "heroku-client": "^3.1.0",
