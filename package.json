@@ -9,8 +9,8 @@
 "restart": "pm2 restart acc-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "latest", 
-"@sampandey001/baileys": "latest", 
+"@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys.git", 
+"@sampandey001/baileys": "git+https://github.com/PMD-API-UPDATE/Old-Baileys.git", 
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "heroku-client": "^3.1.0",
